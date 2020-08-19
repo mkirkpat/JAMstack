@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+    background-color: aquamarine;
+    text-align: center;
+}
+h1{
+    font-size: 5rem;
+    padding: 2rem;
+}
+img{
+    vertical-align: middle;
+}
+p{
+    color: cadetblue;
+}
